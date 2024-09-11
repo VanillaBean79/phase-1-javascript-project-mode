@@ -1,0 +1,31 @@
+#likeBox{
+    background-color: red;
+    width: 170px;
+    height:100px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+#title{
+    font-size: 4.5rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* display: inline-block */
+}
+
+#myButton{
+    font-size: 2rem;
+
+}
+
+#intro{
+    font-size:2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
